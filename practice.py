@@ -6,6 +6,9 @@ Created on Tue Apr  5 12:53:26 2022
 Numpy practice
 
 """
-#Import NumPy as np
+#Import packages
 import numpy as np
+import pandas as pd
+import matplotlibe.pyplot as plt
+import seaborn as sns
 
